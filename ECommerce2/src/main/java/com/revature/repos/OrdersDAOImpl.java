@@ -45,7 +45,7 @@ public class OrdersDAOImpl implements OrdersDAO {
     @Override
     public Orders create(Orders obj) {
         try (Connection conn = ConnectionUtil.getConnection()){
-            String sql = "insert into Orders (total_price, status, user_id) values (?,?,?);";
+            String sql = "insert into Orders (total_price, status, user_id) values (?,?,?) Returning *;";
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setDouble(1,obj.getTotal());
             ps.setString(2,obj.getType().toString());
@@ -56,7 +56,7 @@ public class OrdersDAOImpl implements OrdersDAO {
                 Orders o = new Orders();
                 o.setOrdersId(rs.getInt("orders_id"));
                 o.setTotal(rs.getDouble("total_price"));
-                o.setType(OrdersType.valueOf("status"));
+                o.setType(OrdersType.valueOf(rs.getString("status")));
                 o.setUserId(rs.getInt("user_id"));
                 return o;
             }
