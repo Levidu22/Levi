@@ -70,7 +70,7 @@ public class Main {
             if (loggedInUser == null){
                 // Sign in or register
 
-                System.out.println("Welcome to our ECommerce application! Please press 1 to register, press 2 to login " +
+                System.out.println("Welcome to our Levi´s ECommerce application! Please press 1 to register, press 2 to login " +
                         "or press q to quit");
 
                 String input = scan.nextLine();
