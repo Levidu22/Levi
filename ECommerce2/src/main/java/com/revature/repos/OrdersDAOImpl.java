@@ -19,11 +19,11 @@ public class OrdersDAOImpl implements OrdersDAO {
             PreparedStatement ps = conn.prepareStatement(sql);
             ps.setInt(1,userId);
 
-            ResultSet rs = ps.executeQuery(sql);
+            ResultSet rs = ps.executeQuery();
 
             while (rs.next()){
                 Orders o = new Orders();
-                o.setOrdersId(rs.getInt("order_id"));
+                o.setOrdersId(rs.getInt("orders_id"));
                 o.setTotal(rs.getDouble("total_price"));
                 o.setType(OrdersType.valueOf(rs.getString("status")));
                 o.setUserId(rs.getInt("user_id"));
@@ -37,7 +37,7 @@ public class OrdersDAOImpl implements OrdersDAO {
             System.out.println("Could not retrieve all Orders");
             e.printStackTrace();
         }
-        return List.of();
+        return allOrders;
 
 
     }
@@ -54,7 +54,7 @@ public class OrdersDAOImpl implements OrdersDAO {
 
             if(rs.next()){
                 Orders o = new Orders();
-                o.setOrdersId(rs.getInt("order_id"));
+                o.setOrdersId(rs.getInt("orders_id"));
                 o.setTotal(rs.getDouble("total_price"));
                 o.setType(OrdersType.valueOf("status"));
                 o.setUserId(rs.getInt("user_id"));
@@ -79,7 +79,7 @@ public class OrdersDAOImpl implements OrdersDAO {
 
             while (rs.next()){
                 Orders o = new Orders();
-                o.setOrdersId(rs.getInt("order_id"));
+                o.setOrdersId(rs.getInt("orders_id"));
                 o.setTotal(rs.getDouble("total_price"));
                 o.setType(OrdersType.valueOf(rs.getString("status")));
                 o.setUserId(rs.getInt("user_id"));
@@ -93,7 +93,7 @@ public class OrdersDAOImpl implements OrdersDAO {
             System.out.println("Could not retrieve all Orders");
             e.printStackTrace();
         }
-        return List.of();
+        return allOrders;
     }
 
     @Override

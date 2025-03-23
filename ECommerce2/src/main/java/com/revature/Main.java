@@ -102,8 +102,21 @@ public class Main {
                 // There isn't a lot of logic we can do right now. Here the Customers cannot do anything but the
                 // admin should be able to view all users
                 if (loggedInUser.getRole() == Role.USER){
-                    System.out.println("Thanks for signing in, there is not for now current Customer functionality. Logging out!");
-                    loggedInUser = null;
+                    System.out.println("TPlease enter a choice. Press 1 to view all your Orders, press 2 to logging out!");
+
+                    String choice = scan.nextLine();
+                    while (!(choice.equals("1") || choice.equals("2"))){
+
+                        System.out.println("invalid choice,please enter a new choice");
+                        choice = scan.nextLine();
+
+                    }
+                    if(choice.equals("1")){
+                        ordersController.viewUsersOrdersHandler(loggedInUser.getUserId());
+
+                    }else {
+                        loggedInUser = null;
+                    }
                 } else{
                     // Logged in user is an Admin
                     System.out.println("Please enter a choice. Press 1 to view all users, press 2 to view all Orders" +
@@ -115,6 +128,7 @@ public class Main {
                         System.out.println("Invalid choice, please enter a new choice");
                         choice = scan.nextLine();
                     }
+
 
                     // View all users or logout
 
