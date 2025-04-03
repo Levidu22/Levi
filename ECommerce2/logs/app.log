@@ -1,0 +1,704 @@
+2025-03-23 20:07:43 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 20:07:43 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 20:07:43 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 20:07:43 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5b3f61ff{/,null,AVAILABLE}
+2025-03-23 20:07:44 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3e8c3cb{HTTP/1.1, (http/1.1)}{0.0.0.0:7070}
+2025-03-23 20:07:44 [main] INFO  org.eclipse.jetty.server.Server - Started Server@76494737{STARTING}[11.0.24,sto=0] @1465ms
+2025-03-23 20:07:44 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 20:07:44 [main] INFO  io.javalin.Javalin - Javalin started in 400ms \o/
+2025-03-23 20:07:44 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7070/
+2025-03-23 20:07:44 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 20:07:58 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 20:07:58 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 20:07:58 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 20:07:58 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3e2059ae{/,null,AVAILABLE}
+2025-03-23 20:07:58 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@563f38c4{HTTP/1.1, (http/1.1)}{0.0.0.0:7070}
+2025-03-23 20:07:58 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4a003cbe{STARTING}[11.0.24,sto=0] @1001ms
+2025-03-23 20:07:58 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 20:07:58 [main] INFO  io.javalin.Javalin - Javalin started in 353ms \o/
+2025-03-23 20:07:58 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7070/
+2025-03-23 20:07:58 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 22:37:35 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 22:37:35 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 22:37:36 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 22:37:36 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@55cf0d14{/,null,AVAILABLE}
+2025-03-23 22:37:36 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7bba5817{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-23 22:37:36 [main] INFO  org.eclipse.jetty.server.Server - Started Server@45d84a20{STARTING}[11.0.24,sto=0] @1220ms
+2025-03-23 22:37:36 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 22:37:36 [main] INFO  io.javalin.Javalin - Javalin started in 523ms \o/
+2025-03-23 22:37:36 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-23 22:37:36 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 22:39:23 [JettyServerThreadPool-29] WARN  io.javalin.Javalin - Uncaught exception
+com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map due to end-of-input
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1]
+	at com.fasterxml.jackson.databind.exc.MismatchedInputException.from(MismatchedInputException.java:59)
+	at com.fasterxml.jackson.databind.ObjectMapper._initForReading(ObjectMapper.java:4996)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4898)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3848)
+	at io.javalin.json.JavalinJackson.fromJsonString(JavalinJackson.kt:66)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:153)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:158)
+	at com.revature.controllers.UserController.registerUserHandler(UserController.java:17)
+	at io.javalin.router.Endpoint.handle(Endpoint.kt:52)
+	at io.javalin.router.ParsedEndpoint.handle(ParsedEndpoint.kt:15)
+	at io.javalin.http.servlet.DefaultTasks.HTTP$lambda$9$lambda$7$lambda$6(DefaultTasks.kt:52)
+	at io.javalin.http.servlet.JavalinServlet.handleTask(JavalinServlet.kt:99)
+	at io.javalin.http.servlet.JavalinServlet.handleSync(JavalinServlet.kt:64)
+	at io.javalin.http.servlet.JavalinServlet.handle(JavalinServlet.kt:50)
+	at io.javalin.http.servlet.JavalinServlet.service(JavalinServlet.kt:30)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:52)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:173)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.Server.handle(Server.java:563)
+	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100)
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025-03-23 23:24:49 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 23:24:49 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 23:24:49 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 23:24:49 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@55cf0d14{/,null,AVAILABLE}
+2025-03-23 23:24:49 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7bba5817{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-23 23:24:49 [main] INFO  org.eclipse.jetty.server.Server - Started Server@45d84a20{STARTING}[11.0.24,sto=0] @1228ms
+2025-03-23 23:24:49 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 23:24:49 [main] INFO  io.javalin.Javalin - Javalin started in 571ms \o/
+2025-03-23 23:24:49 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-23 23:24:49 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 23:24:51 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 23:24:51 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 23:24:51 [main] ERROR io.javalin.Javalin - Failed to start Javalin
+2025-03-23 23:24:51 [main] INFO  org.eclipse.jetty.server.Server - Stopped Server@45d84a20{STOPPING}[11.0.24,sto=0]
+2025-03-23 23:25:22 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 23:25:22 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 23:25:22 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 23:25:22 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@55cf0d14{/,null,AVAILABLE}
+2025-03-23 23:25:22 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7bba5817{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-23 23:25:22 [main] INFO  org.eclipse.jetty.server.Server - Started Server@45d84a20{STARTING}[11.0.24,sto=0] @840ms
+2025-03-23 23:25:22 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 23:25:22 [main] INFO  io.javalin.Javalin - Javalin started in 336ms \o/
+2025-03-23 23:25:22 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-23 23:25:23 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 23:26:16 [JettyServerThreadPool-23] WARN  c.r.controllers.UserController - Register attemt made for taken email: email.mex.
+2025-03-23 23:27:37 [JettyServerThreadPool-18] INFO  c.r.controllers.UserController - New user registered with email:email.com.
+2025-03-23 23:38:52 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 23:38:52 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 23:38:52 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 23:38:52 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3b74ac8{/,null,AVAILABLE}
+2025-03-23 23:38:52 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@742ff096{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-23 23:38:52 [main] INFO  org.eclipse.jetty.server.Server - Started Server@52f27fbd{STARTING}[11.0.24,sto=0] @1299ms
+2025-03-23 23:38:52 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 23:38:52 [main] INFO  io.javalin.Javalin - Javalin started in 548ms \o/
+2025-03-23 23:38:52 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-23 23:38:52 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 23:40:41 [JettyServerThreadPool-24] WARN  io.javalin.Javalin - Uncaught exception
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('"' (code 34)): was expecting comma to separate Object entries
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 3, column: 5]
+	at com.fasterxml.jackson.core.JsonParser._constructReadException(JsonParser.java:2648)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:685)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComma(ReaderBasedJsonParser.java:2430)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextFieldName(ReaderBasedJsonParser.java:925)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:317)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4905)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3848)
+	at io.javalin.json.JavalinJackson.fromJsonString(JavalinJackson.kt:66)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:153)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:158)
+	at com.revature.controllers.UserController.loginHandler(UserController.java:66)
+	at io.javalin.router.Endpoint.handle(Endpoint.kt:52)
+	at io.javalin.router.ParsedEndpoint.handle(ParsedEndpoint.kt:15)
+	at io.javalin.http.servlet.DefaultTasks.HTTP$lambda$9$lambda$7$lambda$6(DefaultTasks.kt:52)
+	at io.javalin.http.servlet.JavalinServlet.handleTask(JavalinServlet.kt:99)
+	at io.javalin.http.servlet.JavalinServlet.handleSync(JavalinServlet.kt:64)
+	at io.javalin.http.servlet.JavalinServlet.handle(JavalinServlet.kt:50)
+	at io.javalin.http.servlet.JavalinServlet.service(JavalinServlet.kt:30)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:52)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:173)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.Server.handle(Server.java:563)
+	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100)
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025-03-23 23:40:45 [JettyServerThreadPool-19] WARN  io.javalin.Javalin - Uncaught exception
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('"' (code 34)): was expecting comma to separate Object entries
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 3, column: 5]
+	at com.fasterxml.jackson.core.JsonParser._constructReadException(JsonParser.java:2648)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:685)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._skipComma(ReaderBasedJsonParser.java:2430)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextFieldName(ReaderBasedJsonParser.java:925)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:317)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:177)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:342)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4905)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3848)
+	at io.javalin.json.JavalinJackson.fromJsonString(JavalinJackson.kt:66)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:153)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:158)
+	at com.revature.controllers.UserController.loginHandler(UserController.java:66)
+	at io.javalin.router.Endpoint.handle(Endpoint.kt:52)
+	at io.javalin.router.ParsedEndpoint.handle(ParsedEndpoint.kt:15)
+	at io.javalin.http.servlet.DefaultTasks.HTTP$lambda$9$lambda$7$lambda$6(DefaultTasks.kt:52)
+	at io.javalin.http.servlet.JavalinServlet.handleTask(JavalinServlet.kt:99)
+	at io.javalin.http.servlet.JavalinServlet.handleSync(JavalinServlet.kt:64)
+	at io.javalin.http.servlet.JavalinServlet.handle(JavalinServlet.kt:50)
+	at io.javalin.http.servlet.JavalinServlet.service(JavalinServlet.kt:30)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:52)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:173)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.Server.handle(Server.java:563)
+	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100)
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:421)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:390)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:277)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.produce(AdaptiveExecutionStrategy.java:193)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025-03-23 23:45:58 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 23:45:58 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 23:45:58 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 23:45:58 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3b74ac8{/,null,AVAILABLE}
+2025-03-23 23:45:58 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@742ff096{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-23 23:45:58 [main] INFO  org.eclipse.jetty.server.Server - Started Server@52f27fbd{STARTING}[11.0.24,sto=0] @1286ms
+2025-03-23 23:45:58 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 23:45:58 [main] INFO  io.javalin.Javalin - Javalin started in 670ms \o/
+2025-03-23 23:45:58 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-23 23:45:58 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 23:55:17 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-23 23:55:17 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-23 23:55:17 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-23 23:55:17 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-23 23:55:18 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-23 23:55:18 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @1159ms
+2025-03-23 23:55:18 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-23 23:55:18 [main] INFO  io.javalin.Javalin - Javalin started in 487ms \o/
+2025-03-23 23:55:18 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-23 23:55:18 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-23 23:59:36 [JettyServerThreadPool-18] INFO  c.r.controllers.UserController - New user registered with email:email.java
+2025-03-24 00:09:29 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:09:29 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:09:29 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:09:29 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:09:29 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:09:29 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @1489ms
+2025-03-24 00:09:29 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:09:29 [main] INFO  io.javalin.Javalin - Javalin started in 483ms \o/
+2025-03-24 00:09:29 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:09:29 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 00:29:00 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:29:00 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:29:00 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:29:00 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:29:00 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:29:00 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @1199ms
+2025-03-24 00:29:00 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:29:00 [main] INFO  io.javalin.Javalin - Javalin started in 536ms \o/
+2025-03-24 00:29:00 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:29:00 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 00:31:23 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:31:23 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:31:23 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:31:23 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:31:23 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:31:23 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @918ms
+2025-03-24 00:31:23 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:31:23 [main] INFO  io.javalin.Javalin - Javalin started in 333ms \o/
+2025-03-24 00:31:23 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:31:23 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 00:31:41 [JettyServerThreadPool-18] WARN  io.javalin.Javalin - Uncaught exception
+java.lang.NullPointerException: Cannot invoke "Object.equals(Object)" because the return value of "io.javalin.http.Context.sessionAttribute(String)" is null
+	at com.revature.controllers.UserController.getAllUsersHandler(UserController.java:97)
+	at io.javalin.router.Endpoint.handle(Endpoint.kt:52)
+	at io.javalin.router.ParsedEndpoint.handle(ParsedEndpoint.kt:15)
+	at io.javalin.http.servlet.DefaultTasks.HTTP$lambda$9$lambda$7$lambda$6(DefaultTasks.kt:52)
+	at io.javalin.http.servlet.JavalinServlet.handleTask(JavalinServlet.kt:99)
+	at io.javalin.http.servlet.JavalinServlet.handleSync(JavalinServlet.kt:64)
+	at io.javalin.http.servlet.JavalinServlet.handle(JavalinServlet.kt:50)
+	at io.javalin.http.servlet.JavalinServlet.service(JavalinServlet.kt:30)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:52)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:587)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:764)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:529)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1580)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:221)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1381)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:176)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:484)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1553)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:174)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1303)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:129)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:173)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:122)
+	at org.eclipse.jetty.server.Server.handle(Server.java:563)
+	at org.eclipse.jetty.server.HttpChannel$RequestDispatchable.dispatch(HttpChannel.java:1598)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:753)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:501)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:287)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:314)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:100)
+	at org.eclipse.jetty.io.SelectableChannelEndPoint$1.run(SelectableChannelEndPoint.java:53)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.runTask(AdaptiveExecutionStrategy.java:421)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.consumeTask(AdaptiveExecutionStrategy.java:390)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.tryProduce(AdaptiveExecutionStrategy.java:277)
+	at org.eclipse.jetty.util.thread.strategy.AdaptiveExecutionStrategy.run(AdaptiveExecutionStrategy.java:199)
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:411)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:969)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.doRunJob(QueuedThreadPool.java:1194)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1149)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025-03-24 00:34:42 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:34:42 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:34:42 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:34:42 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:34:42 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:34:42 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @1232ms
+2025-03-24 00:34:42 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:34:42 [main] INFO  io.javalin.Javalin - Javalin started in 485ms \o/
+2025-03-24 00:34:42 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:34:42 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 00:38:13 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:38:13 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:38:13 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:38:13 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:38:13 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:38:13 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @968ms
+2025-03-24 00:38:13 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:38:13 [main] INFO  io.javalin.Javalin - Javalin started in 359ms \o/
+2025-03-24 00:38:13 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:38:13 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 00:41:53 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:41:53 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:41:53 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:41:53 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:41:53 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:41:53 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @1426ms
+2025-03-24 00:41:53 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:41:53 [main] INFO  io.javalin.Javalin - Javalin started in 366ms \o/
+2025-03-24 00:41:53 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:41:53 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 00:43:03 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:43:03 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:43:03 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:43:03 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:43:03 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:43:03 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @921ms
+2025-03-24 00:43:03 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:43:03 [main] INFO  io.javalin.Javalin - Javalin started in 331ms \o/
+2025-03-24 00:43:03 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:43:03 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 00:43:23 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 00:43:23 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 00:43:23 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 00:43:23 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27adc16e{/,null,AVAILABLE}
+2025-03-24 00:43:23 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@75437611{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 00:43:23 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4c163e3{STARTING}[11.0.24,sto=0] @945ms
+2025-03-24 00:43:23 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 00:43:23 [main] INFO  io.javalin.Javalin - Javalin started in 346ms \o/
+2025-03-24 00:43:23 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 00:43:23 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 01:43:06 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 01:43:06 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 01:43:06 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 01:43:06 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 01:43:06 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 01:43:06 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @1390ms
+2025-03-24 01:43:06 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 01:43:06 [main] INFO  io.javalin.Javalin - Javalin started in 604ms \o/
+2025-03-24 01:43:06 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 01:43:06 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 01:46:38 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 01:46:38 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 01:46:38 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 01:46:38 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 01:46:38 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 01:46:38 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @1038ms
+2025-03-24 01:46:38 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 01:46:38 [main] INFO  io.javalin.Javalin - Javalin started in 353ms \o/
+2025-03-24 01:46:38 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 01:46:38 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 01:48:22 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 01:48:22 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 01:48:22 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 01:48:22 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 01:48:23 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 01:48:23 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @1057ms
+2025-03-24 01:48:23 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 01:48:23 [main] INFO  io.javalin.Javalin - Javalin started in 357ms \o/
+2025-03-24 01:48:23 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 01:48:23 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 10:41:29 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 10:41:29 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 10:41:29 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 10:41:29 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 10:41:29 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 10:41:29 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @1368ms
+2025-03-24 10:41:29 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 10:41:29 [main] INFO  io.javalin.Javalin - Javalin started in 560ms \o/
+2025-03-24 10:41:29 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 10:41:29 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 10:42:00 [JettyServerThreadPool-29] INFO  c.r.controllers.UserController - New user registered with email:email.java
+2025-03-24 10:48:11 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 10:48:11 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 10:48:11 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 10:48:11 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 10:48:11 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 10:48:11 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @1203ms
+2025-03-24 10:48:11 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 10:48:11 [main] INFO  io.javalin.Javalin - Javalin started in 532ms \o/
+2025-03-24 10:48:11 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 10:48:11 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 10:48:51 [JettyServerThreadPool-29] INFO  c.r.controllers.UserController - New user registered with email:email.com
+2025-03-24 10:50:54 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 10:50:54 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 10:50:55 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 10:50:55 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 10:50:55 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 10:50:55 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @889ms
+2025-03-24 10:50:55 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 10:50:55 [main] INFO  io.javalin.Javalin - Javalin started in 345ms \o/
+2025-03-24 10:50:55 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 10:50:55 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 10:51:50 [JettyServerThreadPool-29] INFO  c.r.controllers.UserController - New user registered with email:email.net
+2025-03-24 11:01:18 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 11:01:18 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 11:01:18 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 11:01:18 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 11:01:18 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 11:01:18 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @1242ms
+2025-03-24 11:01:18 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 11:01:18 [main] INFO  io.javalin.Javalin - Javalin started in 531ms \o/
+2025-03-24 11:01:18 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 11:01:18 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 11:03:16 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 11:03:16 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 11:03:16 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 11:03:16 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4066c471{/,null,AVAILABLE}
+2025-03-24 11:03:16 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@196a42c3{HTTP/1.1, (http/1.1)}{0.0.0.0:7077}
+2025-03-24 11:03:16 [main] INFO  org.eclipse.jetty.server.Server - Started Server@536f2a7e{STARTING}[11.0.24,sto=0] @975ms
+2025-03-24 11:03:16 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 11:03:16 [main] INFO  io.javalin.Javalin - Javalin started in 330ms \o/
+2025-03-24 11:03:16 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7077/
+2025-03-24 11:03:16 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 12:03:43 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 12:03:43 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 12:03:43 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 12:03:43 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5b3f61ff{/,null,AVAILABLE}
+2025-03-24 12:03:43 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3e8c3cb{HTTP/1.1, (http/1.1)}{0.0.0.0:7070}
+2025-03-24 12:03:43 [main] INFO  org.eclipse.jetty.server.Server - Started Server@76494737{STARTING}[11.0.24,sto=0] @1331ms
+2025-03-24 12:03:43 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 12:03:43 [main] INFO  io.javalin.Javalin - Javalin started in 541ms \o/
+2025-03-24 12:03:43 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7070/
+2025-03-24 12:03:43 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 12:03:55 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 12:03:55 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 12:03:55 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 12:03:55 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3e2059ae{/,null,AVAILABLE}
+2025-03-24 12:03:55 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@563f38c4{HTTP/1.1, (http/1.1)}{0.0.0.0:7070}
+2025-03-24 12:03:55 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4a003cbe{STARTING}[11.0.24,sto=0] @960ms
+2025-03-24 12:03:55 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 12:03:55 [main] INFO  io.javalin.Javalin - Javalin started in 348ms \o/
+2025-03-24 12:03:55 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7070/
+2025-03-24 12:03:55 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
+2025-03-24 13:31:23 [JettyServerThreadPool-20] INFO  c.r.controllers.UserController - New user registered with email:email.net.com
+2025-03-24 13:33:13 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 13:33:13 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 13:33:13 [main] ERROR io.javalin.Javalin - Failed to start Javalin
+2025-03-24 13:33:13 [main] INFO  org.eclipse.jetty.server.Server - Stopped Server@4a003cbe{STOPPING}[11.0.24,sto=0]
+2025-03-24 13:33:22 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 13:33:22 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 13:33:22 [main] ERROR io.javalin.Javalin - Failed to start Javalin
+2025-03-24 13:33:22 [main] INFO  org.eclipse.jetty.server.Server - Stopped Server@4a003cbe{STOPPING}[11.0.24,sto=0]
+2025-03-24 13:33:42 [main] INFO  io.javalin.Javalin - Starting Javalin ...
+2025-03-24 13:33:42 [main] INFO  org.eclipse.jetty.server.Server - jetty-11.0.24; built: 2024-08-26T18:11:22.448Z; git: 5dfc59a691b748796f922208956bd1f2794bcd16; jvm 17.0.2+8-86
+2025-03-24 13:33:42 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-24 13:33:42 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3e2059ae{/,null,AVAILABLE}
+2025-03-24 13:33:42 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@563f38c4{HTTP/1.1, (http/1.1)}{0.0.0.0:7070}
+2025-03-24 13:33:42 [main] INFO  org.eclipse.jetty.server.Server - Started Server@4a003cbe{STARTING}[11.0.24,sto=0] @1907ms
+2025-03-24 13:33:42 [main] INFO  io.javalin.Javalin - 
+       __                  ___           _____
+      / /___ __   ______ _/ (_)___      / ___/
+ __  / / __ `/ | / / __ `/ / / __ \    / __ \
+/ /_/ / /_/ /| |/ / /_/ / / / / / /   / /_/ /
+\____/\__,_/ |___/\__,_/_/_/_/ /_/    \____/
+
+       https://javalin.io/documentation
+
+2025-03-24 13:33:42 [main] INFO  io.javalin.Javalin - Javalin started in 1160ms \o/
+2025-03-24 13:33:42 [main] INFO  io.javalin.Javalin - Listening on http://localhost:7070/
+2025-03-24 13:33:42 [main] INFO  io.javalin.Javalin - You are running Javalin 6.5.0 (released March 9, 2025).
